@@ -1,0 +1,7 @@
+1.先建立文件夹，默认路径为D:\data_experiment\simu_data\（可自己手动更换路径,但文件夹必须已经存在）
+2.在建立的文件夹下，建立data_stac文件夹
+3.加载sim_cna.R
+4.加载cbs_data.R
+5.加载evaluation.R
+6.运行main()函数
+
